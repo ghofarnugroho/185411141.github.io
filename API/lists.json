@@ -1,0 +1,26 @@
+
+[
+  {
+    "id": 0,
+    "title": "Service Worker",
+    "category": "Service Worker",
+    "cover": "./src/assets/img-content/cube.jpg",
+    "content": "Service worker adalah skrip yang dijalankan browser di latar belakang, terpisah dari halaman web, yang membuka pintu ke berbagai fitur yang tidak memerlukan halaman web atau interaksi pengguna. Saat ini, service worker sudah menyertakan berbagai fitur seperti notifikasi push dan sinkronisasi latar belakang. Di masa mendatang, service worker mungkin mendukung fitur lainnya seperti sinkronisasi berkala atau geofencing. Fitur inti yang dibahas dalam tutorial ini adalah kemampuan mencegat dan menangani permintaan jaringan, termasuk mengelola cache respons lewat program. Yang membuat API ini menarik adalah karena memungkinkan Anda mendukungpengalaman offline, yang memberikan developer kontrol penuh atas pengalaman.Sebelum service worker, ada satu API lain yang memberi pengguna pengalaman offline di web, yang disebut AppCache. Ada sejumlah masalah pada AppCache API yang dapat dihindari oleh service worker .."
+  },
+
+  {
+    "id": 1,
+    "title": "JS Promise",
+    "category": "JS Promise",
+    "cover": "./src/assets/img-content/gunung.jpg",
+    "content": "JavaScript (JS) terkenal dengan gaya asynchronous-nya dibanding dengan bahasa lain yang pada awalnya diakomodir menggunakan callback. Terlebih pada node.js yang hampir semua core API-nya bersifat async. Namun callback sendiri terkadang kurang nyaman dipergunakan karena dapat menimbulkan callback hell, sulit melakukan error handling, dan lain-lain."
+  },
+
+  {
+    "id": 2,
+    "title": "Fetch API",
+    "category": "Fetch API",
+    "cover": "./src/assets/img-content/gunung1.jpg",
+    "content": "Fetch API menyediakan antarmuka untuk mengambil sumber daya (termasuk di seluruh jaringan). Ini akan tampak akrab bagi siapa saja yang telah menggunakan XMLHttpRequest, tetapi API baru menyediakan serangkaian fitur yang lebih kuat dan fleksibel."
+  }
+]
